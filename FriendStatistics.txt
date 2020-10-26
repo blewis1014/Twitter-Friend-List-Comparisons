@@ -1,0 +1,4 @@
+Statistics for 'Friend' counts of U and their friends
+Mean: 538
+Median: 395
+Standard Deviation: 535.81

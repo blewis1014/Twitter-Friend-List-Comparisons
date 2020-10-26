@@ -1,0 +1,4 @@
+Statistics for 'Follower' counts of weiglemc and their followers
+Mean: 859
+Median: 192
+Standard Deviation: 2094.13
